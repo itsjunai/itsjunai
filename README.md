@@ -29,13 +29,6 @@ Pi-deployable maritime vessel orientation and stability monitor
 Real-time pitch, roll, and heading monitoring via MPU-9250 IMU over I2C. Complementary filter at α=0.96, stability scoring engine, zero-point calibration, WebSocket sensor bridge, and full sensor log. Runs as a single HTML file served from a Raspberry Pi.
 JavaScript Raspberry Pi I2C MPU-9250 WebSocket IoT Maritime
 
-PROTOCOL_ECHO — Multi-Agent AI Terminal
-
-CLI-launched Express app with 6 Claude agents, SSE streaming & SQLite persistence
-
-Multi-agent conversational system built on the Claude API. Six specialized agents, server-sent event streaming, persistent SQLite conversation history, and a full integrations module. Structured as a production CLI application.
-Node.js Express Claude API SQLite SSE Multi-Agent CLI
-
 Tech Stack
 Languages     JavaScript · HTML · CSS · Python · Bash
 AI/ML         LLM Architecture · MoE · Quantization · Edge AI · Prompt Engineering
@@ -65,4 +58,4 @@ YouTube: https://youtube.com/sirjunai
 Email: junai.felixx@gmail.com
 
 
-Based in Gros Islet, Saint Lucia 🇱🇨 — Open to remote opportunities worldwide.
+Based in Gros Islet, Saint Lucia 🇱🇨 — Open to remote opportunities worldwide
